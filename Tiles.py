@@ -1,5 +1,3 @@
-# Draw the solution.
-
 x = 25
 y = 150
 z = 275
