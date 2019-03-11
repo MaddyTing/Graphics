@@ -1,7 +1,4 @@
-# This code 'looks right', but it contains an error: the outline of the field
-# is drawn using Lines! The autograder will not accept it unless it is a Rect.
-
-# change the background to grass colors
+# Grass
 Rect(0, 0, 400, 400, fill='forestGreen')
 
 # These Lines draw a fine soccer field but the autograder wants a Rect
