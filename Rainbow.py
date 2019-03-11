@@ -1,6 +1,3 @@
-# Draw the gradient rainbow in the solution.
-# To show only the top half of the Circles, use drawing order!
-
 # Sky
 Rect(0, 0, 400, 400, fill='lightSkyBlue')
 
