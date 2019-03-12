@@ -1,3 +1,5 @@
+# Captain America's Shield
+
 x = 200
 
 Circle(x, x, 150, fill=gradient('red', 'darkRed', start='left'))
