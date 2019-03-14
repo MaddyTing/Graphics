@@ -28,11 +28,12 @@ Oval(230, 360, 30, 20, fill=gradient('mediumSeaGreen', 'greenYellow', start='lef
 Oval(200, 200, 200, 220, fill=gradient('greenYellow', 'greenYellow', 'mediumSeaGreen'))
 
 # Smile
+#  Edges
 Circle(155, 233, 10, fill='darkGreen')
 Circle(155, 235, 10, fill='greenYellow')
 Circle(245, 233, 10, fill='darkGreen')
 Circle(245, 235, 10, fill='greenYellow')
-
+#  Main
 Oval(200, 232, 100, 50, fill='darkGreen')
 Oval(200, 230, 100, 50, fill='greenYellow')
 
