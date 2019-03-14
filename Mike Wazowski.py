@@ -1,4 +1,4 @@
-# In this exercise, you'll draw Pixar's Mike Wazowski from Monster's Inc.
+# Pixar's Mike Wazowski from Monster's Inc
 
 Rect(0, 0, 400, 400, fill='crimson')
 Line(0, 200, 400, 200, fill='darkRed', opacity=20, lineWidth=400, dashes=(5, 75))
