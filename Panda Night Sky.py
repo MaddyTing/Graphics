@@ -1,3 +1,5 @@
+#My own graphic :)
+
 #Sky
 Rect(0, 0, 400, 400)
 Rect(0, 0, 400, 400, fill=gradient('cadetblue', 'blue', 'navy', start='bottom'), opacity=50)
